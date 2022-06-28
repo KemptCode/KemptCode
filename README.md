@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a software engineer that keeps looking for the next thing to learn.
+Projects created on this account are personal projects done on my own time.
 
 <!--
 **KemptCode/KemptCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
