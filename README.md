@@ -3,6 +3,8 @@
 I'm a software engineer that keeps looking for the next thing to learn.
 Projects created on this account are personal projects done on my own time.
 
+Checkout my [GitHub Pages](https://kemptcode.github.io/) for more!
+
 <!--
 **KemptCode/KemptCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
